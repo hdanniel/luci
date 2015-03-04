@@ -10,5 +10,5 @@ Deploy to multiple remote servers from git repositories
 - execute actions pre/post deployment
 - golang!
 
-
+Status: Not ready yet
 
